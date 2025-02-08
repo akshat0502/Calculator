@@ -1,7 +1,7 @@
 <h1>
     <a href="https://akshat0502.github.io/Calculator/" style="text-decoration: none;"><b>Calculator</b></a>
 </h1>
-    <br><br><br>
+    <br>
     <p>For a <b> Calculator Project</b> using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> the goal is to create a simple, interactive calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division. The project will feature a UI for the calculator with buttons for digits and operations, and a display screen to show inputs and results.</p>
     <p>
         <p style="font-size: large; "><b>Project Structure:</b></p>
