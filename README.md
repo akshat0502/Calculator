@@ -6,8 +6,8 @@
     <p>
         <p style="font-size: large; "><b>Project Structure:</b></p>
         <ol>
-            <li><b>HTML (index.html)</b>– Contains the structure of the calculator including the buttons and display.</li>
-            <li><b>CSS (style.css)</b>– Adds styling to the weather app, making it visually appealing.</li>
-            <li><b>JavaScript (internal js)</b>  – Handles the logic for performing calculations when buttons are clicked and updates the display.</li>
+            <li><b>HTML (index.html)</b> : Contains the structure of the calculator including the buttons and display.</li>
+            <li><b>CSS (style.css)</b> : Adds styling to the weather app, making it visually appealing.</li>
+            <li><b>JavaScript (internal js)</b> : Handles the logic for performing calculations when buttons are clicked and updates the display.</li>
         </ol>
     </p>
